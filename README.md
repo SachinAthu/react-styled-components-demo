@@ -1,4 +1,4 @@
-# React Huddle landing page demo with styled components
+# React Hubble landing page demo with styled components
 
 # Getting Started with Create React App
 
